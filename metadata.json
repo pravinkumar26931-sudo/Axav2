@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Shramik Hisaab - Work Card Calculator",
+  "description": "An intelligent app for workers to scan their attendance cards and automatically calculate monthly earnings based on hourly or 12-hour shift rates using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
